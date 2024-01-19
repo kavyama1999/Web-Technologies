@@ -1,0 +1,42 @@
+.paragraph
+{
+    color: blue;
+   
+    margin-top: 100px;
+}
+
+.paragraph-container
+{
+    border:150px;
+    height: 100px;
+    width:100px;
+    border:2px dotted green;
+}
+.container
+{
+display:flex;
+justify-content: flex-end;
+}
+/*
+table,tr,th
+{
+border-color:red;
+color: green;
+}
+th{
+    color: pink;
+}
+tr{
+    color: blue;
+}
+
+/*td,th{
+    color: blue;
+}
+
+*/
+
+*{
+
+    color: blue;  /*--(universal selector)*/
+}
